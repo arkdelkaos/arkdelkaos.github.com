@@ -1,9 +1,9 @@
 # Site settings
-name: Travelogue
-description: 'A minimal, single-column Jekyll theme that provides an immersive read experience for your readers'
+name: Aspirina y Cafeína
+description: 'Blog personal de caracter técnico de Alvaro Almendros'
 
 baseurl: '' # the subpath of your site, e.g. /blog
-url: 'http://yourdomain.com' # the base hostname & protocol for your site
+url: 'http://arkdelkaos.github.io/' # the base hostname & protocol for your site
 
 # Build settings
 markdown:            kramdown
@@ -15,9 +15,9 @@ paginate:            8
 paginate_path:       page/:num/
 
 author:
-    name: 'Salvatore Gentile'
-    email: ''
-    uri: 'https://github.com/SalGnt'
+    name: 'Alvaro Almendros'
+    email: 'alvaroalmendros@me.com'
+    uri: 'https://github.com/arkdelkaos'
 
 sass:
     sass_dir: _sass
