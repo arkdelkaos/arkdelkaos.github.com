@@ -35,8 +35,6 @@ A contrario, yo mismo tengo una lista importante de defectos, pero **pretendo fl
 Sé que a veces parece que me gusta demasiado el sonido de mi propia voz, pero en realidad no me soporto ni yo mismo. **Tengo la mecha corta, el volumen excesivamente alto *(y ancho)*, y un ego que me hace parecer el argentino del equipo** *([Introducir chiste sobre 'lo que me hace el cubano del equipo'])*. Lo sé, pero me cuesta horrores no hacerlo. Y cuando luego hago el resumen del día, no acabo muy contento con el resultado.  
 **Que terminemos el proyecto sin que ambos me manden a la mierda** del todo *(ya cuento con que me van a morder un ojo más de una vez)* **va a ser todo un logro**, y pretendo lograrlo. **Conseguir no solo ponerme al día a nivel técnico, sino ser un poco mejor compañero y amigo**, sería genial para quitarme un poco las ganas de partirle la cara al menda ese que me mira por la mañanas al salir de la ducha *(...es que le reventaba...pero...¡es tan guapo! ;))*
 
-
----
 #### Imagenes:
 * [bg by oo-rein-oo](http://oo-rein-oo.deviantart.com/art/Morphing-Phase-One-Abduction-To-Earth-571965417)  
 * [thumb by cipriany](http://cipriany.deviantart.com/art/Earth-88369935)
