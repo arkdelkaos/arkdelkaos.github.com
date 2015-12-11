@@ -442,9 +442,9 @@
     }
 
     .previous-post-info {
-        padding: 30px;
-        padding-right: 0px;
-        float: right;
+        padding-top: 30px;
+        padding-left: 292px;
+        float: left;
         text-align: right;
 
         @include media-query($on-laptop) {
