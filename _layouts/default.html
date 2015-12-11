@@ -17,9 +17,10 @@
 
             {% include pagination.html %}
             
-            
-            {% include next.html %}
-            {% include prev.html %}
+            <div class="next-prev">
+                {% include next.html %}
+                {% include prev.html %}
+            </div>
             
             <footer class="post-meta">
                 {% if page.date %}
@@ -56,9 +57,9 @@
                 {% endif %}
             </footer>
 
-    {% include share.html %}
+         {% include share.html %}
 
-    {% include disqus.html %}
+         {% include disqus.html %}
             
         </div>
 

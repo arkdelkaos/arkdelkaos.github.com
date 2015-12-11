@@ -309,8 +309,7 @@
 }
 
 .post-share {
-    margin-bottom: $spacing-unit;
-    padding: 30px;
+    padding: 5px;
 
     .rrssb-buttons li {
         padding: 0 5px 0 0;
@@ -330,6 +329,11 @@
 #disqus_thread {
     margin-bottom: $spacing-unit;
     padding: 30px;
+}
+
+.next-prev {
+    border-top: 3px solid $brand-color-2;
+    border-bottom: 3px solid $brand-color-2;
 }
 
 .next-post {
