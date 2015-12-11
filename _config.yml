@@ -40,4 +40,3 @@ defaults:
 gems:
     - jekyll-feed
     - jekyll-sitemap
-    - jekyll-minify-html
