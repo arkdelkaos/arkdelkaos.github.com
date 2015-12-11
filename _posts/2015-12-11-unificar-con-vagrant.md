@@ -33,26 +33,29 @@ No puedo obligar a mis compañeros a comprarse un mac *(aunque me gustaría)*, n
 
 ## Vagrant es sopa de sobre
 
-No puede ser mas fácil de usar:
-* Instalas Vagrant y VirtualBox   
+Instalas Vagrant y VirtualBox   
 ```
 Mac (instala primero Homebrew): 
      brew install Caskroom/cask/virtualbox Caskroom/cask/vagrant
 Windows (instala primero Git y CMDer):
      choco install vagrant virtualbox
 ```
-* Clonas mi repositorio [Vagrant-Boxes](https://github.com/arkdelkaos/Vagrant-Boxes)   
+
+Clonas mi repositorio [Vagrant-Boxes](https://github.com/arkdelkaos/Vagrant-Boxes)   
 ```
 git clone https://github.com/arkdelkaos/Vagrant-Boxes.git Vagrant-Boxes
 ```
-* Lanzas Vagrant
+
+Lanzas Vagrant  
 ```
 vagrant up
 ```
-* **Y ya está**. Esperas, y cuando acabe haces
+
+**Y ya está**. Esperas, y cuando acabe haces  
 ```
 vagrant ssh
 ```
+
 En mi receta de *sopa de sobre* te instalo una Ubuntu14 de servidor, en una VM de 1core/512MB, y todo lo que se me ha ocurrido que puedas necesitar a nivel *--global*. Y si se me ocurriese alguna app extra, *git pull*, y, sinceramente, se tarda menos haciendo *vagrant destroy && vagrant up*
 Así me seguro que todo mi equipo tiene una VM que he supervisado, fácil de destruir y aún mas fácil de crear. Una consola *unix* como *Dios manda*, y ejecutando los proyectos mediante una carpeta compartida con la VM, por lo que **para la edición ya cada cual que use *lo que mas rabia le de***.
 > Os recomiendo que echéis un vistazo a [Visual Studio Code](https://code.visualstudio.com/): Es Simple, es bonito, y es cómodo. **Bastante mas rápido que Atom, mucho menos aparatoso que Sublime**.  
