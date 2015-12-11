@@ -17,7 +17,7 @@ Por suerte *Ghetto* está acostumbrado a sacarse las castañas del fuego, y reh�
 
 Como decía, estos temas *me matan*. **Y si encima me pasan a mi, ya el mosqueo es cósmico.** Porque son problemas que se pueden prever, y para los que hay que tener planes de contingencia. Esto no es como que tu ISP te corte el Internet en medio de un proyecto, o que justo la impresora decida *tener un infarto* el día antes de imprimir el trabajo de la universidad, que tienes que entregar mañana. Estas cosas son previsibles. Y además puedes servirte de la experiencia de otros programadores *(cuando las barbas de tu vecino veas cortar)*.
 
-## De entornos de trabajo, sistemas poco operativos, y odio eterno al CMD de Windows
+## Sistemas poco operativos
 > A- "Hey, has probado la ultima versión de la app"  
 B- "Sí, pero no me carga, y me da un error rarísimo"  
 A- "¡Pero si a mi me funcionaba perfectamente"
