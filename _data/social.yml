@@ -1,14 +1,14 @@
 # RRSSB
 facebook: true
 twitter: true
-googleplus: true
+googleplus: false
 linkedin: false
 reddit: true
-hackernews: true
+hackernews: false
 pinterest: false
 tumblr: false
 pocket: true
-email: false
+email: true
 
 # Disqus
-disqus_shortname: 'example'
+disqus_shortname: 'aspirinaycafeina'
