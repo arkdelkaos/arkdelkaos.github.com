@@ -404,3 +404,81 @@
         }
     }
 }
+
+.previous-post {
+    background: lighten($dark-color, 3%);
+    color: $text-color-light;
+    height: 200px;
+    position: relative;
+
+    .previous-post-link {
+        bottom: 0;
+        left: 0;
+        position: absolute;
+        right: 0;
+        top: 0;
+
+        &:hover {
+            background: rgba($dark-color, .25);
+        }
+    }
+
+    @include media-query($on-laptop) {
+        height: auto;
+    }
+
+    .previous-post-thumb {
+        float: right;
+        height: 200px;
+        margin-left: 30px;
+        object-fit: cover;
+        width: 200px;
+
+        @include media-query($on-laptop) {
+            float: none;
+            margin: 0;
+            width: 100%;
+        }
+    }
+
+    .previous-post-info {
+        padding: 30px;
+        float: right;
+        text-align: right;
+
+        @include media-query($on-laptop) {
+            padding: 20px;
+        }
+
+        .previous-story {
+            color: $grey-color-dark;
+            font-family: $base-font-family-sans;
+            font-size: 13px;
+            font-weight: 700;
+            letter-spacing: 2px;
+            margin: 0;
+            padding: 0;
+            text-transform: uppercase;
+
+            @include transition($transition-base);
+        }
+
+        .previous-post-title {
+            font-size: 22px;
+            font-style: italic;
+            letter-spacing: 4px;
+            line-height: 150%;
+            margin: 0;
+            padding-top: 10px;
+            text-transform: uppercase;
+
+            @include transition($transition-base);
+
+            @include media-query($on-laptop) {
+                font-size: 20px;
+                letter-spacing: 2px;
+                padding-top: 15px;
+            }
+        }
+    }
+}

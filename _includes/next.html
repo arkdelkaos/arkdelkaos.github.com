@@ -11,14 +11,14 @@
 </div>
 {% endif %}
 {% if page.previous %}
-<div class="next-post">
-    <a href="{{ page.previous.url | prepend: site.baseurl }}" class="next-post-link"></a>
+<div class="previous-post">
+    <a href="{{ page.previous.url | prepend: site.baseurl }}" class="previous-post-link"></a>
 
-    <img src="{{ page.previous.thumb }}" class="next-post-thumb" />
+    <img src="{{ page.previous.thumb }}" class="previous-post-thumb" />
 
-    <div class="next-post-info">
-        <span class="next-story">previous Story</span>
-        <h3 class="next-post-title">{{ page.previous.title }}</h3>
+    <div class="previous-post-info">
+        <span class="previous-story">previous Story</span>
+        <h3 class="previous-post-title">{{ page.previous.title }}</h3>
     </div>
 </div>
 {% endif %}
