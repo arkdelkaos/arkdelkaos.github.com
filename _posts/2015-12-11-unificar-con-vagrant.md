@@ -29,7 +29,8 @@ Por ejemplo a *Nomo*, en su *trabajo de ensueño en empresa puntera*, le dieron 
 Pero, ¿que sucede si tu empresa, o tu economía, no te da para tomar una decisión salomónica *salamanca-hood style*? Bueno, pues **la respuesta que yo he encontrado es Vagrant**
 
 No puedo obligar a mis compañeros a comprarse un mac *(aunque me gustaría)*, ni siquiera a usar Linux en sus máquinas. Windows, por mucho [Chocolatey](https://chocolatey.org/) y [CMDer](http://cmder.net/) que instales *(si usas Node con el CMD por defecto, o eres masoquista, o no lo entiendo)*, sigue siendo Windows. Pero bueno, no voy a entrar en detalles, que me conozco.  
-**Lo que sí puedo hacer es obligarles a instalar una máquina virtual sencilla de usar, y probada por mi con antelación. Y ahí entra Vagrant**
+**Lo que sí puedo hacer es obligarles a instalar una máquina virtual sencilla de usar, y probada por mi con antelación. Y ahí entra Vagrant**  
+
 > Lo mas gracioso del caso es que, *pese a todo*, *Oratual* acabó con el proceso cancelado mientras ruby seguía lanzándole lineas en segundo plano. **Ya puedes hacerlo fácil, testarlo mil veces, que si tu colega hace *ctrl+c* para pasarte lo que le dice la consola** por Skype...no puedes hacer nada. Es una batalla perdida. **Lo mejor que tiene Vagrant es lo fácil que es borrar la carpeta, y volver a empezar de 0.** La descarga de **la imagen "original" del SO se guarda aparte**, por lo que no tienes que esperar de nuevo a que se descargue. **Destruye las máquinas sin miedo.**
 
 ## Vagrant es sopa de sobre
