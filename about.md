@@ -7,15 +7,4 @@ thumb: https://www.dropbox.com/s/e5uqv9d6fwjofal/earth_by_cipriany-d1gm2of.jpg?d
 permalink: /about/
 ---
 
-Travelogue is a minimal, single-column Jekyll theme that provides an immersive read experience for your readers.
-
-![Post](https://dl.dropboxusercontent.com/u/18322837/GitHub/Travelogue/Post.png)
-
-## Getting Started
-The theme provides a complete Jekyll setup. Download it and start the Jekyll server.
-
-    git clone https://github.com/SalGnt/Travelogue.git
-    cd Travelogue
-    jekyll serve
-
-Visit the [Jekyll website](http://jekyllrb.com/) for more information.
+Me llamo Alvaro Almendros, y de momento no voy a dedicarle mucho tiempo a esta parte de la web ;)
