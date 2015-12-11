@@ -7,4 +7,4 @@ thumb: https://www.dropbox.com/s/f1qscop1buzuxun/10557190_10204496266103801_3699
 permalink: /about/
 ---
 
-Me llamo Alvaro Almendros, y de momento no voy a dedicarle mucho tiempo a esta parte de la web ;)
+Me llamo **Alvaro Almendros**, y de momento no voy a dedicarle mucho tiempo a esta parte de la web ;)
