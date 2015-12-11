@@ -32,7 +32,6 @@ No puedo obligar a mis compañeros a comprarse un mac *(aunque me gustaría)*, n
 > Lo mas gracioso del caso es que, *pese a todo*, *Oratual* acabó con el proceso cancelado mientras ruby seguía lanzándole lineas en segundo plano. **Ya puedes hacerlo fácil, testarlo mil veces, que si tu colega hace *ctrl+c* para pasarte lo que le dice la consola** por Skype...no puedes hacer nada. Es una batalla perdida. **Lo mejor que tiene Vagrant es lo fácil que es borrar la carpeta, y volver a empezar de 0.** La descarga de **la imagen "original" del SO se guarda aparte**, por lo que no tienes que esperar de nuevo a que se descargue. **Destruye las máquinas sin miedo.**
 
 ## Vagrant es sopa de sobre
-
 Instalas Vagrant y VirtualBox   
 ```
 Mac (instala primero Homebrew): 
