@@ -58,7 +58,8 @@ vagrant ssh
 ```
 
 En mi receta de *sopa de sobre* te instalo una Ubuntu14 de servidor, en una VM de 1core/512MB, y todo lo que se me ha ocurrido que puedas necesitar a nivel *--global*. Y si se me ocurriese alguna app extra, *git pull*, y, sinceramente, se tarda menos haciendo *vagrant destroy && vagrant up*
-Así me seguro que todo mi equipo tiene una VM que he supervisado, fácil de destruir y aún mas fácil de crear. Una consola *unix* como *Dios manda*, y ejecutando los proyectos mediante una carpeta compartida con la VM, por lo que **para la edición ya cada cual que use *lo que mas rabia le de***.
+Así me seguro que todo mi equipo tiene una VM que he supervisado, fácil de destruir y aún mas fácil de crear. Una consola *unix* como *Dios manda*, y ejecutando los proyectos mediante una carpeta compartida con la VM, por lo que **para la edición ya cada cual que use *lo que mas rabia le de***.  
+
 > Os recomiendo que echéis un vistazo a [Visual Studio Code](https://code.visualstudio.com/): Es Simple, es bonito, y es cómodo. **Bastante mas rápido que Atom, mucho menos aparatoso que Sublime**.  
 Ahora, al final del día todos los editores vienen siendo lo mismo. Se hace raro programar software libre en un iMac, con un editor de Microsoft. Vivimos [tiempos interesantes](https://www.wikiwand.com/es/Tiempos_interesantes)
 
