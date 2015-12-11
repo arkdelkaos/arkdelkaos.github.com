@@ -7,7 +7,4 @@ thumb: https://www.dropbox.com/s/e5uqv9d6fwjofal/earth_by_cipriany-d1gm2of.jpg?d
 permalink: /about/
 ---
 
-{% if page.thumb %}
-        <img src="{{ page.thumb }}" alt="{{ page.title }}" class="post-thumb" />
-{% endif %}
 Me llamo Alvaro Almendros, y de momento no voy a dedicarle mucho tiempo a esta parte de la web ;)
