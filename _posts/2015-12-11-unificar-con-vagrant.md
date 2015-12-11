@@ -71,7 +71,8 @@ Vagrant menos, pero **Puppet**, que es lo que una vez vagrant ha creado la VM pr
 Al final acabé instalando **[N, el gestor de versiones de Node](https://github.com/tj/n)** para manejar la instalación de node *propiamente dicho*, y mongo al estilo clásico. Y **funciona**, así que *una aspirina menos*.
 
 Si vas a modificar la receta, empieza clonandola, no te cortes.  
-Hay 2 archivos a tener en cuenta:
+Hay 2 archivos a tener en cuenta:  
+
 * **[Vagrantfile](https://github.com/arkdelkaos/Vagrant-Boxes/blob/master/Ubuntu14/Vagrantfile)**: A lo *Gruntfile*, es lo que mira vagrant cuando lo ejecutas en la carpeta donde está el archivo. Su configuración, simple como ella sola.  
 No tiene mucho misterio, pero te voy a dar un par de consejos:  
 
