@@ -4,7 +4,7 @@ title: "Unificar con Vagrant"
 date: 2015-12-11
 backgrounds:
     - https://www.dropbox.com/s/mkhyvtgj1xz717e/captain_bridge_by_real_sonkes-d64exop.jpg?dl=1
-thumb: https://www.dropbox.com/s/krnfe4v3lixrhee/mecanism_ii_by_butterflywings2151.jpg?dl=1
+thumb: https://www.dropbox.com/s/yfl0tvlvtm8twe9/the_wheels_keep_turning_by_rustmouth-d36y4m5.png?dl=1
 category: nodejs
 tags: nodejs vagrant puppet linux windows mac vm
 ---
@@ -89,4 +89,4 @@ No tiene mucho misterio, pero te voy a dar un par de consejos:
  
 #### Imágenes:
 * [bg by real-sonkes](http://real-sonkes.deviantart.com/art/Captain-bridge-370212361)  
-* [thumb by butterflywings2151](http://butterflywings2151.deviantart.com/art/Mecanism-II-79549947)
+* [thumb by rustmouth](http://rustmouth.deviantart.com/art/The-Wheels-Keep-Turning-193068509)
