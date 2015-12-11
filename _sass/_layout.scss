@@ -337,7 +337,7 @@
 }
 
 .next-post {
-    background: lighten($dark-color, 3%);
+    background: $brand-color-2;
     color: $text-color-light;
     height: 200px;
     position: relative;
@@ -380,7 +380,7 @@
         }
 
         .next-story {
-            color: $grey-color-dark;
+            color: black;
             font-family: $base-font-family-sans;
             font-size: 13px;
             font-weight: 700;
@@ -413,7 +413,7 @@
 }
 
 .previous-post {
-    background: lighten($dark-color, 3%);
+    background: $brand-color-2;
     color: $text-color-light;
     height: 200px;
     position: relative;
@@ -459,7 +459,7 @@
         }
 
         .previous-story {
-            color: $grey-color-dark;
+            color: black;
             font-family: $base-font-family-sans;
             font-size: 13px;
             font-weight: 700;
