@@ -266,6 +266,7 @@
     display: -webkit-flex;
     display: flex;
     line-height: 2;
+    padding: 30px;
 
     @include flex-wrap(wrap);
 
@@ -309,6 +310,7 @@
 
 .post-share {
     margin-bottom: $spacing-unit;
+    padding: 30px;
 
     .rrssb-buttons li {
         padding: 0 5px 0 0;
@@ -327,6 +329,7 @@
 
 #disqus_thread {
     margin-bottom: $spacing-unit;
+    padding: 30px;
 }
 
 .next-post {
