@@ -139,13 +139,16 @@ blockquote {
  */
 pre,
 code {
-    background-color: #eef;
+    background-color: transparent;
     font-family: $base-font-family-mono;
     font-size: 15px;
+    color: green;
+    display: block;
+    border-left: 2px dased green;
 }
 
 code {
-    padding: 4px;
+    padding: 10px;
 }
 
 pre {
