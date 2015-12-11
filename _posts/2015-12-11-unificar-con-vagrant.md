@@ -72,20 +72,13 @@ Hay 2 archivos a tener en cuenta:
 * **[Vagrantfile](https://github.com/arkdelkaos/Vagrant-Boxes/blob/master/Ubuntu14/Vagrantfile)**: A lo *Gruntfile*, es lo que mira vagrant cuando lo ejecutas en la carpeta donde está el archivo. Su configuración, simple como ella sola.  
 No tiene mucho misterio, pero te voy a dar un par de consejos:  
   * En la parte de los puertos verás que el 22 del SSH lleva la coletilla *id: 'ssh'*. O le pones eso, o te creará un segundo binding al 22, en vez de redireccionar el 22. Digamos que **sobreescribe el comportamiento *default***.
-  * La parte que dice
-  ```
-  config.vm.provision "fix-no-tty", type: "shell" do |s|
-    s.privileged = false
-    s.inline = "sudo sed -i '/tty/!s/mesg n/tty -s \\&\\& mesg n/' /root/.profile"
-  end
-  ```
-  ...es una *ñapa* como una catedral. No tengo idea de que hace exactamente, pero **se come un error muy molesto que me impedía lanzar *vagrant ssh* tras puppet**. Si alguien quiere explicármelo, la verdad es que me llama la atención...pero no como para ir a buscarlo ahí fuera.
+  * La parte que dice *config.vm.provision "fix-no-tty"*...es una *ñapa* como una catedral. No tengo idea de que hace exactamente, pero **se come un error muy molesto que me impedía lanzar *vagrant ssh* tras puppet**. Si alguien quiere explicármelo, la verdad es que me llama la atención...pero no como para ir a buscarlo ahí fuera.
   * Los módulos de puppet son un aburrimiento importante, y una fuente de dolores de cabeza. Si ves que no consigues que funcionen como se supone que deberían, sáltatelos y hazlo a mano. Es una pena no poder hacer un simple *vagrant provision* para actualizar los paquetes, pero la idea de todo esto, IMHO, es dejar de perder tiempo de trabajo por *cacharrear* con el entorno de trabajo: tampoco tiene sentido perderlo *cacharreando* con Puppet si simplemente necesitas una manera de dotar de una VM sencilla a tu equipo. 
   > **Puppet** esta pensado para administrar software y configuración de muchas VMs a la vez, por ejemplo en un servidor. Para eso es importantísimo que los módulos, de 3os o propios, funcionen como un reloj. Para *cosas mundanas*, es demasiado *overkill*.
 * **[default.pp](https://github.com/arkdelkaos/Vagrant-Boxes/blob/master/Ubuntu14/manifests/default.pp)** es la receta de Puppet. Es un caos, un descontrol total, y aunque existan los [stages](https://docs.puppetlabs.com/puppet/latest/reference/lang_run_stages.html), y te aviso que son incompatibles con la mitad de módulos que he probado. La única manera fiable de asegurar que se vaya instalando en cola, es mediante ***require***.  
   * Las clases hay que cargarlas con include, no te olvides. 
   * Los package se ejecutan directamente, en el momento en el que su *require* de valide.
-  * Un *require* puede ser cualquier proceso, desde una *Class* a un *Exec*, y puedes concatenarlo (AND) mediante un array de este estilo: 
+  * Un *require* puede ser cualquier proceso, desde una *Class* a un *Exec*, y puedes concatenarlo (AND) mediante un array de este estilo:  
   ```
   require => [Exec["git_clone_n"], Exec["install_n"], Class["apt_update"]]
   ```
