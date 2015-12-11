@@ -10,3 +10,15 @@
     </div>
 </div>
 {% endif %}
+{% if page.prev %}
+<div class="next-post">
+    <a href="{{ page.prev.url | prepend: site.baseurl }}" class="next-post-link"></a>
+
+    <img src="{{ page.prev.thumb }}" class="next-post-thumb" />
+
+    <div class="next-post-info">
+        <span class="next-story">Prev Story</span>
+        <h3 class="next-post-title">{{ page.prev.title }}</h3>
+    </div>
+</div>
+{% endif %}
