@@ -31,7 +31,7 @@ Pero, ¿que sucede si tu empresa, o tu economía, no te da para tomar una decisi
 No puedo obligar a mis compañeros a comprarse un mac *(aunque me gustaría)*, ni siquiera a usar Linux en sus máquinas. Windows, por mucho [Chocolatey](https://chocolatey.org/) y [CMDer](http://cmder.net/) que instales *(si usas Node con el CMD por defecto, o eres masoquista, o no lo entiendo)*, sigue siendo Windows. Pero bueno, no voy a entrar en detalles, que me conozco.  
 **Lo que sí puedo hacer es obligarles a instalar una máquina virtual sencilla de usar, y probada por mi con antelación. Y ahí entra Vagrant**  
 
-> Lo mas gracioso del caso es que, *pese a todo*, *Oratual* acabó con el proceso cancelado mientras ruby seguía lanzándole lineas en segundo plano. **Ya puedes hacerlo fácil, testarlo mil veces, que si tu colega hace `ctrl+c` para pasarte lo que le dice la consola** por Skype...no puedes hacer nada. Es una batalla perdida. **Lo mejor que tiene Vagrant es lo fácil que es borrar la carpeta, y volver a empezar de 0.** La descarga de **la imagen "original" del SO se guarda aparte**, por lo que no tienes que esperar de nuevo a que se descargue. **Destruye las máquinas sin miedo.**
+> Lo mas gracioso del caso es que, *pese a todo*, *Oratual* acabó con el proceso cancelado mientras ruby seguía lanzándole lineas en segundo plano. **Ya puedes hacerlo fácil, testarlo mil veces, que si tu colega hace *ctrl+c* para pasarte lo que le dice la consola** por Skype...no puedes hacer nada. Es una batalla perdida. **Lo mejor que tiene Vagrant es lo fácil que es borrar la carpeta, y volver a empezar de 0.** La descarga de **la imagen "original" del SO se guarda aparte**, por lo que no tienes que esperar de nuevo a que se descargue. **Destruye las máquinas sin miedo.**
 
 ## Vagrant es sopa de sobre
 * Instalas Vagrant y VirtualBox  
@@ -58,6 +58,7 @@ vagrant ssh
 
 En mi receta de *sopa de sobre* te instalo una Ubuntu14 de servidor, en una VM de 1core/512MB, y todo lo que se me ha ocurrido que puedas necesitar a nivel *--global*. Y si se me ocurriese alguna app extra, *git pull*, y, sinceramente, se tarda menos haciendo *vagrant destroy && vagrant up*
 Así me seguro que todo mi equipo tiene una VM que he supervisado, fácil de destruir y aún mas fácil de crear. Una consola *unix* como *Dios manda*, y ejecutando los proyectos mediante una carpeta compartida con la VM, por lo que **para la edición ya cada cual que use *lo que mas rabia le de***.  
+ 
 > Os recomiendo que echéis un vistazo a [Visual Studio Code](https://code.visualstudio.com/): Es Simple, es bonito, y es cómodo. **Bastante mas rápido que Atom, mucho menos aparatoso que Sublime**.  
 Ahora, al final del día todos los editores vienen siendo lo mismo. Se hace raro programar software libre en un iMac, con un editor de Microsoft. Vivimos [tiempos interesantes](https://www.wikiwand.com/es/Tiempos_interesantes)
 
