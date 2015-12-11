@@ -126,7 +126,7 @@ blockquote {
     margin-left: -($spacing-unit / 3);
     margin-right: -($spacing-unit / 3);
     padding: $spacing-unit / 3;
-    border-left: solid 1px $brand-color-2;
+    border-left: solid 7px $brand-color-2;
 
     > :last-child {
         margin-bottom: 0;
@@ -145,7 +145,7 @@ code {
     font-size: 15px;
     color: green;
     display: block;
-    border-left: 1px solid green;
+    border-left: 7px solid green;
 }
 
 code {
