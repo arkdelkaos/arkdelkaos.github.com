@@ -1,0 +1,12 @@
+{% if page.previous %}
+<div class="previous-post">
+    <a href="{{ page.previous.url | prepend: site.baseurl }}" class="previous-post-link"></a>
+
+    <div class="previous-post-info">
+        <span class="previous-story">previous Story</span>
+        <h3 class="previous-post-title">{{ page.previous.title }}</h3>
+    </div>
+    
+    <img src="{{ page.previous.thumb }}" class="previous-post-thumb" />
+</div>
+{% endif %}
