@@ -18,7 +18,7 @@ Pero la moda de que las empresas miren tu github público como parte de su proce
 El proyecto actual sigue sin necesitarlo, pero **puede ser divertido usar el blog de cuaderno de bitácora**. Ya me veo venir mil y un problemas, con sus mil y un soluciones...¡y sus dos mil *ñapas*!. **¡Porque este proyecto va a traer *miga*!** Es la gracia del mismo. **Está pensado como una prueba de stress**, aunque espero que esto tarden en saberlo mis dos compañeros de viaje, Lautaro *(alias, ¡viva la imaginación!, Oratual)* y Danilo *(alias Ghetto, que en ocasiones no puede ser un nick más literal)*.  
 Voy a forzar la máquina en todos los niveles que se me ocurran, y **¿qué mejor manera que un blog en "base-consola" para aderezarlo?**
 
-#### ¿Cómo que forzar la máquina?
+## ¿Cómo que forzar la máquina?
 Me apetece **probar algo realmente nuevo**, no simplemente *nuevo para mi*.  
 Este es el *Leitmotiv*, el *casus belli*, la excusa por la cual voy a meterme en este fregado que **de seguro va a necesitar grandes dosis de *aspirina y cafeína***.  
 
@@ -30,13 +30,13 @@ Vamos a usar un montón de tecnología de la que *no tengo ni la más remota ide
 Pero, **¿nunca os habéis preguntado si hubiese merecido más la pena empezar con "lo mas moderno" en vez de por "lo básico"?** Esta pregunta no tiene una respuesta sencilla. Nunca me he decidido con una respuesta. Demasiadas variables. Sin embargo, **esta vez tengo la posibilidad de comprobar cómo dos programadores muy diferentes reaccionan ante un mundo nuevo y, en ocasiones, aterrador**.  
 Oratual tiene una capacidad de adaptación menor que Ghetto, y mucha menos experiencia a la hora de lidiar con proyectos en los que *se mide la profundidad de río con los dos pies*...si embargo tiene un aguante de carga de trabajo, y capacidad de soportar situaciones de stress, muy superior a Ghetto. Son la hormiga y la cigarra; blanco y negro. Ghetto tiene la competencia, y pero le falta la constancia; Ortual tiene la constancia, pero le falta la competencia. Sinceramente, creo que Oratual lo tiene mucho mas fácil que Ghetto, ya que solo es *ponerse al día*.
  
-#### Repartes para todos lados, ¿y para tí no hay *golpe de remo*?
+## Repartes para todos lados, ¿y para tí no hay *golpe de remo*?
 A contrario, yo mismo tengo una lista importante de defectos, pero **pretendo flagelarme en pequeñas dosis durante los artículos de este blog**.  
 Sé que a veces parece que me gusta demasiado el sonido de mi propia voz, pero en realidad no me soporto ni yo mismo. **Tengo la mecha corta, el volumen excesivamente alto *(y ancho)*, y un ego que me hace parecer el argentino del equipo** *([Introducir chiste sobre 'lo que me hace el cubano del equipo'])*. Lo sé, pero me cuesta horrores no hacerlo. Y cuando luego hago el resumen del día, no acabo muy contento con el resultado.  
 **Que terminemos el proyecto sin que ambos me manden a la mierda** del todo *(ya cuento con que me van a morder un ojo más de una vez)* **va a ser todo un logro**, y pretendo lograrlo. **Conseguir no solo ponerme al día a nivel técnico, sino ser un poco mejor compañero y amigo**, sería genial para quitarme un poco las ganas de partirle la cara al menda ese que me mira por la mañanas al salir de la ducha *(...es que le reventaba...pero...¡es tan guapo! ;))*
 
 
-
-##### Imagenes:
+---
+#### Imagenes:
 * [bg by oo-rein-oo](http://oo-rein-oo.deviantart.com/art/Morphing-Phase-One-Abduction-To-Earth-571965417)  
 * [thumb by cipriany](http://cipriany.deviantart.com/art/Earth-88369935)
