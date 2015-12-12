@@ -53,17 +53,7 @@ Antes de nada empieza añadiendo 3 bloques:
 * **Terciario**: Son las funciones que no necesitas en la app, pero que estaría bien implementarlas en algún momento, si se tercia. Por ejemplo usar un generador de páginas estáticas para aligerar partes del frontend.  
 
 Una vez tienes los 3 bloques, simplemente tienes que ir recorriendo las funciones pormenorizando el proceso. Os muestro un ejemplo, a medias, de la lista de nuestro proyecto hecha en 5 minutos:  
-```
-Secundario
-  Sistema de castings
-    Home
-      Link nuevo usuario
-        Alumno
-        No Alumno
-      Link nuevo casting
-        Casting masivo >> tags >> validacion >> aviso usuarios
-        Casting unitario >> buscador >> seleccion >> validacion >> aviso usuario 
-```
+{% gist [gist_number] %}  
 Como ves, tampoco está bien hecho: Falta afinar mucho mas, de cara a que sea sencillo crear las colecciones de la db...pero para el ejemplo se entiende de sobra :)
  
  
