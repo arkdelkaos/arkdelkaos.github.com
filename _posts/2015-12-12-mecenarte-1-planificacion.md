@@ -9,7 +9,7 @@ category: mecenarte
 tags: mecenarte nodejs angularjs api raml babel es6 es2015
 ---
 
-La planificación del proyecto *mecenarte* está siendo mas complicada que de costumbre, y que al no tener que tratar con un cliente *propiamente dicho*, ya que este proyecto lo estamos haciendo pra Oratual, nos quita la presión de cumplir unas fechas específicas. Esto puede parecer bueno en un primer momento, pero está mostrándose un problema a la hora de ponernos a trabajar.  
+La planificación del proyecto *mecenarte* está siendo mas complicada que de costumbre, ya que al no tener que tratar con un cliente *propiamente dicho*, sabiendo que este proyecto lo estamos haciendo para Oratual, nos quita la presión de cumplir unas fechas específicas. Esto puede parecer bueno en un primer momento, pero está mostrándose un problema a la hora de ponernos a trabajar.  
 
 ## Tratando con nuevos clientes
 
@@ -29,6 +29,7 @@ Generalmente sigo un proceso a la hora de acometer proyectos nuevos, que me suel
 Es de cajón, pero conozco casos en los que, ya sea por exceso de respeto o por falta del mismo, dejan que sea el cliente el que tome las decisiones, y punto. Y ellos a programar.  
 Esto no funciona así: Por lógica **alguien que se dedica a este sector está mucho mas capacitado para recomendar un producto, y evitar una mala decisión al cliente**. El 90% de las veces te van a pedir "una web que haga X"; O peor, *"una web como 'esa' de ahí"*.  
 Lo suyo es entender que necesidad tiene el cliente, traduciendo lo que te esté pidiendo, y acto seguido **ofrecer un producto (o varios) que cumpla no solo lo que quiere, sino también lo que necesita** (aunque ni sepa que lo necesita).
+* Si con un CMS no es suficiente, es donde entra el sistema *Pri/Sec/Tri*. Tomar nota de las necesidades del cliente de una manera ágil y útil, es imprescindible. Pero esto lo voy a comentar mas adelante.   
 * Una vez que tengo claro qué voy a ofrecer, presento **diseños**. Mejor que te diga *"hazme uno **como este**, cambiando esto y aquello"*. Y ya de paso decidiendo una paleta de colores.  
 * Por ultimo se acuerda un **presupuesto**, y **se firman los contratos**. Los contratos deben tener una serie de clausulas que te hace la vida *as fácil*:
   * Se marca una **fecha de entrega**, donde tendrá que firmar el recibo, que de paso sirve como prueba de que el cliente recibe lo que se acordó. Tras la entrega, no tiene derecho a reclamación. Y así te aseguras que no va a estar pidiendo retoques "de gratis": Si tras entrega quiere cambiar algo, ya es servicio extra, y se paga aparte.
@@ -41,7 +42,7 @@ Claro, para mecenarte no puedo seguir este sistema, ya que *no hay cliente*. Per
 
 ## Primario, Secundario y Terciario
 
-No es ta sencillo decidir las funciones que va a llevar una nueva app. Y menos aún **plantear la lista de una manera útil**.  
+No es tan sencillo decidir las funciones que va a llevar una nueva app. Y menos aún **plantear la lista de una manera útil**.  
 Me encontré a *Oratual* pensado la lista como si fuese un maquetador, apuntando secciones de la web. Esto me sorprendió bastante, ya que **al tener un sistema muy definido, suelo dar por supuesto que todo el mundo se planifica de la misma manera, o semejante**. Como maquetador no puedes hacer una lista útil, ya que estas planteandolo en la capa final del frontend, casi como usuario...y vamos a hacer una api.  
 Cuando le expliqué como planteo estas listas, tampoco me expliqué bien, ya que acabó creando la misma lista **ordenada por prioridad**.  
 
