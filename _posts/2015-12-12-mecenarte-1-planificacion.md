@@ -46,7 +46,8 @@ Cuando le expliqué como planteo estas listas, tampoco me expliqué bien, ya que
 
 Las listas de funciones tienen que estar lo suficientemete **pormenorizadas** como para que el diseño de las colecciones de la base de datos sea lo mas sencillo posible. Vamos, que tienes que tener la db como horizonte mientras rellenas la lista.  
 
-Antes de nada empieza añadiendo 3 bloques: 
+Antes de nada empieza añadiendo 3 bloques:  
+
 * **Primario**: Son las funciones vitales. Las que tiene que llevar la app por obligación. Lo básico. Los cimientos. Por ejemplo el sistema de usuarios, seguridad, información de la empresa, etc. Lo que tiene que estar en la versión alfa.
 * **Secundario**: Son las funciones que quieres que tenga por obligación antes de sacarla al público, en la beta. Por ejemplo aquí entra el sistema de bolsa de trabajo para actores, y el sistema de perfiles-cv. 
 * **Terciario**: Son las funciones que no necesitas en la app, pero que estaría bien implementarlas en algún momento, si se tercia. Por ejemplo usar un generador de páginas estáticas para aligerar partes del frontend.  
