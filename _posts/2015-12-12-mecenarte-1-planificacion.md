@@ -34,6 +34,7 @@ Lo suyo es entender que necesidad tiene el cliente, traduciendo lo que te esté 
   * Se marca una **fecha de entrega**, donde tendrá que firmar el recibo, que de paso sirve como prueba de que el cliente recibe lo que se acordó. Tras la entrega, no tiene derecho a reclamación. Y así te aseguras que no va a estar pidiendo retoques "de gratis": Si tras entrega quiere cambiar algo, ya es servicio extra, y se paga aparte.
   * Al firmar el contrato también acepta el diseño (completo, o con mockup) y los colores. Nada de cambiar de idea a medio diseño, sin pagar el tiempo invertido en el diseño "anterior".
   * Y por supuesto, pagos por adelantado, en entrega, y demás. A mi me gusta pedir un 15% por adelantado el día de la firma de los contratos, y el 85% restante en entrega (y si no hay pago, no hay web). Los precios no se vuelven a negociar una vez firmado el contrato.  
+  
   > Si vas a tener algún tipo de consideración especial con un cliente, pregúntate primero si él lo tendría contigo si tú fueses el cliente. **Ten respeto por tu trabajo haciendo que el cliente te respete**. Profesionalidad.
   
 Claro, para mecenarte no puedo seguir este sistema, ya que *no hay cliente*. Pero sí he podido prever las necesidades del proyecto mientras Oratual decidía que funciones necesita.
