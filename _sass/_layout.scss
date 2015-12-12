@@ -450,12 +450,12 @@
 
     .previous-post-info {
         padding-top: 30px;
-        padding-left: 292px;
-        float: left;
+        float: right;
         text-align: right;
 
         @include media-query($on-laptop) {
             padding: 20px;
+            float: none;
         }
 
         .previous-story {
