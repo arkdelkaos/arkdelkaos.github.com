@@ -13,7 +13,7 @@ La planificación del proyecto *mecenarte* está siendo mas complicada que de co
 
 ## Tratando con nuevos clientes
 
-Generalmente sigo un flujo de trabajo a la hor de acometer proyectos nuevos, que me suele ir muy bien:
+Generalmente sigo un flujo de trabajo a la hor de acometer proyectos nuevos, que me suele ir muy bien:  
 * **Antes** de la entrevista con el cliente
   1. Investigo al cliente, y sus posibles necesidades
   2. Intento llevar la mayor cantidad de **contenido ya preparado** (y mejor, en papel):
