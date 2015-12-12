@@ -364,6 +364,7 @@
         margin-right: 30px;
         object-fit: cover;
         width: 200px;
+        border-bottom-right-radius: 200px;
 
         @include media-query($on-laptop) {
             float: none;
@@ -439,6 +440,7 @@
         margin-left: 30px;
         object-fit: cover;
         width: 200px;
+        border-top-left-radius: 200px;
 
         @include media-query($on-laptop) {
             float: none;
