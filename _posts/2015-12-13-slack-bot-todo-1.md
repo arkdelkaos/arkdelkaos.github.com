@@ -24,7 +24,7 @@ El bot debería tener los siguientes comandos dentro de slack:
      - POST /list/*id_grupo*/*id_canal*/*id_usr*/
   * Borrar la lista asociada al canal (admin)
      - bot list del
-     - DELETE /list/*id_grupo*/*id_canal*/*id_usr/
+     - DELETE /list/*id_grupo*/*id_canal*/*id_usr*/
   * Borrar tareas hechas (admin)
      - bot list clean
      - DELETE /list/*id_grupo*/*id_canal*/*id_usr*/clean
