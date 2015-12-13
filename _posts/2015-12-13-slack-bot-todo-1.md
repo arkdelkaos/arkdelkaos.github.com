@@ -16,7 +16,8 @@ Existe una **infraestructura para crear bots para slack**, que permite **comunic
 Permite dar instrucciones al bot *como si de una consola de comandos se tratase*, pudiendo enlazar a una api dichos comandos, por lo que se puede manejar una aplicación externa si salir de slack.
 
 ## Un bot que maneja una lista To-Do
-El bot debería tener los siguientes comandos dentro de slack:
+El bot debería tener los siguientes comandos dentro de slack:  
+
 * **Administración de listas**
   * Crear una Nueva lista To-Do asociada al grupo y al canal.
      - bot list new
